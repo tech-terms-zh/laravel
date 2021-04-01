@@ -41,6 +41,7 @@
 - Chain 鏈結
 
 ## D
+- Daemon（不翻）
 - Database-Transactions  資料庫交易
 - Deferred Providers 緩載提供者
 - Dependency 依賴
